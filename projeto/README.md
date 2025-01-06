@@ -1,2 +1,2 @@
 # Projeto
-## -  Nesta pasta encontram-se os ficherios do projeto juntamente com o dataset e o relatório.
+## -  Nesta pasta encontram-se os ficheiros do projeto juntamente com o dataset e o relatório.
